@@ -1,0 +1,6 @@
+[submodule "lorax"]
+	path = lorax
+	url = https://github.com/weldr/lorax.git
+[submodule "python-packaging"]
+	path = python-packaging
+	url = https://github.com/storborg/python-packaging.git
