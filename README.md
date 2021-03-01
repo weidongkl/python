@@ -1,2 +1,3 @@
-# 社区gitee使用到的相关脚本
+# weidong test
+![](https://travis-ci.org/weidongkl/python.svg?branch=master&status=passed)
 
