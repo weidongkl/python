@@ -1,3 +1,3 @@
 # weidong test
-![](https://travis-ci.org/weidongkl/python.svg?branch=master&status=passed)
+![](https://travis-ci.com/weidongkl/python.svg?branch=master&status=unknown)
 
